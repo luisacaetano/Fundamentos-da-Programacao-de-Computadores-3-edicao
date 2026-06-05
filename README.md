@@ -19,3 +19,4 @@ O repositório contém arquivos organizados por tópicos e exercícios, com solu
 - `exercicio_1.c`: Resposta para o primeiro exercício do capítulo 1.
 - `exercicio_2.c`: Resposta para o segundo exercício do capítulo 1.
 - `...`: Continuação dos exercícios, organizados por capítulo.
+
